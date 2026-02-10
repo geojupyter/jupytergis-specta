@@ -24,7 +24,7 @@
           20037508.34278924,
           14567268.565207776
         ],
-        "symbologyOverride": [
+        "layerOverride": [
           {
             "color": {
               "circle-fill-color": [
@@ -179,7 +179,7 @@
           20037508.34278924,
           14567268.565207776
         ],
-        "symbologyOverride": [
+        "layerOverride": [
           {
             "color": {
               "stroke-color": "#ff3b30",
@@ -218,7 +218,7 @@
           -12579102.409,
           5311971.847
         ],
-        "symbologyOverride": [
+        "layerOverride": [
           {
             "color": {
               "circle-fill-color": [
@@ -380,7 +380,7 @@
           13000167.839775614,
           5463406.410445608
         ],
-        "symbologyOverride": [
+        "layerOverride": [
           {
             "color": {
               "stroke-color": "#7c3aed",
@@ -419,7 +419,7 @@
           28018074.099065267,
           10919212.386197694
         ],
-        "symbologyOverride": [
+        "layerOverride": [
           {
             "color": {
               "circle-fill-color": [
@@ -539,10 +539,10 @@
   "options": {
     "bearing": 0.0,
     "extent": [
-      -15201750.262877513,
-      2982593.094710318,
-      -11403609.024122488,
-      5832928.596289681
+      -14883508.920468166,
+      2724886.790259271,
+      -11721850.366531834,
+      6090634.900740729
     ],
     "latitude": 36.77478359623204,
     "longitude": -119.50000443501676,
